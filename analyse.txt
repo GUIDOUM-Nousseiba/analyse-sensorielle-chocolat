@@ -1,0 +1,3 @@
+Participants : 5
+Chocolat testé : Noir, Lait, Blanc
+Préférence : 3 pour Noir, 2 pour Lait
