@@ -1,3 +1,6 @@
 Participants : 5
 Chocolat testé : Noir, Lait, Blanc
 Préférence : 3 pour Noir, 2 pour Lait
+
+Conclusion : Le chocolat noir est préféré
+Date analyse : aujourd'hui a 23h
